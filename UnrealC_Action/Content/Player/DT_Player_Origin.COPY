@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.DataTable Name="DT_Player"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   RowStruct=ScriptStruct'"/Script/U2012_04_Action.MontageData"'
+   AssetImportData=AssetImportData'"AssetImportData"'
+   RowStructName="MontageData"
+End Object

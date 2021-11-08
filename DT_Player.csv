@@ -1,0 +1,4 @@
+,Type,AnimMontage,PlayRatio,StartSection,bCanMove
+1,Roll,AnimMontage'/Game/Character/Montages/Common/Roll_Montage.Roll_Montage',2,,FALSE
+2,Backstep,AnimMontage'/Game/Character/Montages/Common/BackStep_Montage.BackStep_Montage',1.5,,FALSE
+3,Charge,AnimMontage'/Game/Character/Montages/Katana/ChargeSkill/Katana_ChargeSkill_1.Katana_ChargeSkill_1',1,,FALSE
