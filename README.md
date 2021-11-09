@@ -6,4 +6,6 @@
   - Email : srhybloodborne@gmail.com
 
 # 시연 영상
-https://youtu.be/yQ7s03Cm2_I
+
+[![클릭시 이동](https://img.youtube.com/watch?v=yQ7s03Cm2_I.jpg)](https://https://www.youtube.com/watch?v=yQ7s03Cm2_I)
+[(클릭시 이동)](https://https://www.youtube.com/watch?v=yQ7s03Cm2_I)
